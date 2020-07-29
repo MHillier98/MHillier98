@@ -1,10 +1,10 @@
-# Welcome to my README!
+# Matthew Hillier
 
-🔭 I’m currently working as a full stack developer, mainly using Angular and .NET Core! 
+Hey there! I'm an Aussie university student and full stack developer! I'm studying my [honours in IT at UTS](https://www.uts.edu.au/future-students/find-a-course/bachelor-science-honours-information-technology) focusing on AR & VR, as well as working as a full stack web developer at [Helpwise](https://helpwise.com.au/).
 
-🌱 I’m also currently studying my honours at UTS! [(Bachelor of Science (Honours) in Information Technology)](https://www.uts.edu.au/future-students/find-a-course/bachelor-science-honours-information-technology). 
+Some technologies I enjoy working with include [Godot](https://godotengine.org/), [Unity](https://unity.com/), [Angular](https://angular.io/), and [.NET Core](https://dotnet.microsoft.com/).
 
-👯 I’m looking to collaborate on cool games! I love VR as well! 
+I'm super keen about the future of AR & VR, and how they can work together to create engaging interactive experiences.
 
 
 ### My GitHub Stats!
