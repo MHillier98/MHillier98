@@ -2,3 +2,12 @@
 I'm an Aussie university student doing my [Honours in IT at UTS](https://www.uts.edu.au/future-students/find-a-course/bachelor-science-honours-information-technology) focusing on AR & VR, as well as working as a full stack web developer at [Helpwise](https://helpwise.com.au/). I'm super keen about the future of AR & VR, and how they can work together to create engaging interactive experiences. Some of the tech I enjoy working with includes [Godot](https://godotengine.org/), [Unity](https://unity.com/), [.NET Core](https://dotnet.microsoft.com/), and [Angular](https://angular.io/).
 
 You can view my resume here: [mhillier98.github.io](https://mhillier98.github.io/)
+
+
+## Stats
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=mhillier98&count_private=true&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhillier98&count_private=true&theme=react&layout=compact&langs_count=8&hide=Java,ShaderLab,HLSL,GLSL)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mhillier98&color=blue&label=Profile+Views)
