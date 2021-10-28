@@ -1,8 +1,6 @@
 # Hello there!
 
-I'm an Aussie university student studying [Information Technology at UTS](https://www.uts.edu.au/future-students/find-a-course/bachelor-science-honours-information-technology) doing an Honours degree by research, focused on VR & AR interaction design. I'm also working as a full stack web developer at [Helpwise](https://helpwise.com.au/). I'm super keen about the future of VR and AR technologies and how they can work together to create engaging interactive experiences. I have an insatiable curiosity for learning how different things are made and am always tinkering in my spare time to learn the latest technologies and improve my knowledege of tech.
-
-Some of the tech I enjoy working with includes [Godot](https://godotengine.org/), [Unity](https://unity.com/), [.NET Core](https://dotnet.microsoft.com/), [Vue.js](https://vuejs.org/), and [Angular](https://angular.io/).
+I'm an Aussie university student studying [Information Technology at UTS](https://www.uts.edu.au/future-students/find-a-course/bachelor-science-honours-information-technology) doing an Honours degree by research, focused on VR & AR interaction design. I'm also working as a full stack web developer at [Helpwise](https://helpwise.com.au/).
 
 You can view my resume at: [mhillier98.github.io](https://mhillier98.github.io/)
 
