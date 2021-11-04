@@ -8,6 +8,4 @@ You can view my resume at: [mhillier98.github.io](https://mhillier98.github.io/)
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=mhillier98&count_private=true&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhillier98&count_private=true&theme=react&layout=compact&langs_count=8&hide=Java,ShaderLab,HLSL,GLSL)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=mhillier98&color=blue&label=Profile+Views)
