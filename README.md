@@ -7,5 +7,3 @@ You can view my resume at: [mhillier98.github.io](https://mhillier98.github.io/)
 ## Stats
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=mhillier98&count_private=true&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=mhillier98&color=blue&label=Profile+Views)
