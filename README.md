@@ -1,10 +1,12 @@
 # Hey there!
 
-I'm a software engineer, hobbyist game developer, and a recent graduate from UTS, where I completed a bachelor's degree and an honours research project which focused on VR & AR interaction design for user training in hazardous environments.
+### I'm a software engineer and hobbyist game developer
 
+With a love for solving problems and writing code since a young age, I have been writing code for well over a decade, and professionally since 2017.
 
-You can view my resume at: [mhillier98.github.io](https://mhillier98.github.io/)
+* Currently working at DesignCrowd on [BrandCrowd](https://www.brandcrowd.com/) (Jan 2022 - Present)
+* Worked at [Helpwise](https://helpwise.com.au/) (Aug 2017 - Dec 2021)
 
-## Stats
+I completed a bachelor's degree and an honours research project at [UTS](https://www.uts.edu.au/) (2017 - 2021), where I studied information technology, designed and programmed 2D & 3D games, and wrote a thesis on interaction design for VR & AR user training in the same physical and digital locations.
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=mhillier98&count_private=true&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+You can view my [LinkedIn profile](https://www.linkedin.com/in/mhillier98/) for more details!
