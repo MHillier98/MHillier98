@@ -1,4 +1,4 @@
-# Hey there!
+# Hello there!
 
 ### I'm a software engineer and hobbyist game developer
 
